@@ -1,5 +1,6 @@
 # Thaw-Slumps-and-ML
 Detecting thaw slumps using remote sensing techniques and machine learning methods.
+
 In recent decades, Banks Island in the Northwest Territory of Canada has been marked by the 
 degradation of its permafrost. A case in point is the rise in retrogressive thaw slumps (RTS), 
 demonstrating the consequences of climate change in the region. Since they are inextricably 
